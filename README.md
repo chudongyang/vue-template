@@ -1,2 +1,2 @@
 # vue-template
-不同版本的 vue 模板
+vue2.0 版本的 vue 模板
